@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Philip Johnson",
+    "label": "Professor",
+    "picture": "https://github.com/philipmjohnson.png",
+    "email": "johnson@hawaii.edu",
+    "phone": "808-956-3489",
+    "website": "https://philipmjohnson.github.io",
+    "summary": "I am a Professor of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to retire in 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "philipmjohnson", "url": "http://github.com/philipmjohnson" },
+      { "network": "linkedin", "username": "philipmjohnson", "url": "http://linkedin.com/in/philipmjohnson" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Educational Technology" },
+    { "name": "Sustainability" },
+    { "name": "Climate Change" }
   ],
   "skills": [
     {
