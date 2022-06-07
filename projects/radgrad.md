@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/radgrad_logo.png
 title: "RadGrad"
 # All dates must be YYYY-MM-DD format!
 date: 2022-06-01
