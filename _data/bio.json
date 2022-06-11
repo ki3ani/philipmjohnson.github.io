@@ -2,7 +2,7 @@
   "basics": {
     "name": "Philip Johnson",
     "label": "Professor",
-    "picture": "https://github.com/philipmjohnson.png",
+    "picture": "https://github.com/philipmjohnson/philipmjohnson.github.io/raw/main/img/pmj-headshot.png",
     "email": "johnson@hawaii.edu",
     "phone": "808-956-3489",
     "website": "https://philipmjohnson.github.io",
@@ -17,7 +17,6 @@
     { "name": "Software Engineering" },
     { "name": "Educational Technology" },
     { "name": "Food Resiliency" },
-    { "name": "Sustainability" },
     { "name": "Climate Change" }
   ],
   "skills": [
