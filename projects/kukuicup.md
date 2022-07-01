@@ -4,7 +4,7 @@ type: project
 published: true
 image:  img/kukuicup.jpg
 title: "Kukui Cup"
-date: 2010
+date: 2014 - 2010
 labels:
   - Python
   - Django

@@ -4,7 +4,7 @@ type: project
 published: true
 image:  img/radgrad.png
 title: RadGrad
-date: 2016
+date: 2022 - 2016
 labels:
   - Meteor
   - Semantic UI

@@ -4,7 +4,7 @@ type: project
 published: true
 image:  img/techfoliologo.png
 title: Techfolios
-date: 2016
+date: 2022 - 2016
 labels:
   - Jekyll
   - GitHub Pages
