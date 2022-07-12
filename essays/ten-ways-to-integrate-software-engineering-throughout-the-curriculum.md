@@ -16,7 +16,7 @@ This essay describes several ways for instructors of upper division courses to e
 
 Here are ten recommendations. Even if you adopt just a few of them, the improvement in retention and understanding of software engineering concepts could be significant.
 
-  1. [Require JetBrains IDEs](#1-require-jetbrains-ides)
+  1. [Require JetBrains IDEs or VS Code](#1-require-jetbrains-ides)
   2. [Require an automated coding standard](#2-require-an-automated-coding-standard)
   3. [Require GitHub for project repositories](#3-require-github-for-project-repositories)
   4. [Require project documentation, and use GitHub Pages](#4-require-project-documentation-and-use-github-pages)
@@ -27,13 +27,13 @@ Here are ten recommendations. Even if you adopt just a few of them, the improvem
   9. [Require a database if appropriate](#9-require-a-database-if-appropriate)
   10. [Deliver application functionality as a cloud-based service](#10-deliver-application-functionality-as-a-cloud-based-service)
 
-## 1. Require JetBrains IDEs
+## 1. Require JetBrains IDEs (or VS Code)
 
 I have used and taught a great many different integrated development environments throughout the years.  Currently, I require ICS 314 students to learn and use the JetBrains IDE for Javascript, known as [WebStorm](https://www.jetbrains.com/webstorm/). Using the same basic platform, JetBrains also provides [Idea](https://www.jetbrains.com/idea/) for Java, [PyCharm](https://www.jetbrains.com/pycharm/) for Python, and [CLion](https://www.jetbrains.com/clion/) for C and C++.  The JetBrains family of IDEs are currently best-in-class for these languages, with superior syntax-aware editing, a fantastic debugger/inspector, arguably the best automated refactoring technology, and a vast plugin ecosystem.
 
 JetBrains IDEs are generally acknowledged as superior to Eclipse, NetBeans, Atom, etc. The universally cited downside is that these products are expensive: licenses normally cost about $200/year. Fortunately, this is a non-issue for us: JetBrains provides a [free academic license to students and instructors](https://www.jetbrains.com/student/).  All of your students, having been through ICS 314, already have this license in effect and can use any JetBrains IDE. (Parenthetically, the JetBrains business model [appears to be working](https://twitter.com/chetanp/status/1205907182396395525).)
 
-The one exception is if you are doing .NET and/or C# development: in that case Visual Studio Code is probably a better choice.
+A reasonable alternative to the JetBrains family of IDEs is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). VSCode is free, open source, and a better choice if you are doing Microsoft (.NET and/or C#) development. Most comparisons of the two environments result in JetBrains coming out slightly on top, with VS Code close behind. 
 
 From a software engineering perspective, I do not believe it is in the best interest of the students to let them "use whatever IDE they want".  The IDE is, for a software engineer, analogous to the set of knives used by a chef: in both cases the tool is the most direct connection between the professional and their work product, and thus has a disproportionate impact on the quality and productivity of their work. The KCC culinary program does not let students use "whatever knives they want"; they require students to buy and use knives they have chosen as appropriate for a professional in training.
 
@@ -41,7 +41,7 @@ If you decide to require them to use a different IDE, be sure that the benefits 
 
 **How to do it:**
 
-Tell your students that they are required to use the appropriate JetBrains IDE for software development (or VS Code, if you're doing .NET or C#). Explain the advantages of using your chosen IDE over the alternatives, and that they can help each other better if they all use the same IDE. Periodically check during in-class development periods to see that they are using the required IDE, and use it yourself for in-class demos.
+Tell your students that they are required to use the appropriate JetBrains IDE (or VS Code) for software development. Explain the advantages of using your chosen IDE over the alternatives, and that they can help each other better if they all use the same IDE. Periodically check during in-class development periods to see that they are using the required IDE, and use it yourself for in-class demos.
 
 If a student has forgotten about JetBrains, refer them to the [ICS 314 Development Environments module](http://courses.ics.hawaii.edu/ReviewICS314/modules/development-environments/).
 
