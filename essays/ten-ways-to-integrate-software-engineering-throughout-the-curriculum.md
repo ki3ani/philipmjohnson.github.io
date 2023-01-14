@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: Ten ways to integrate software engineering throughout the curriculum
-date: 2020-10-15
+date: 2023-01-14
 labels:
   - Software Engineering
 ---
@@ -31,7 +31,7 @@ Here are ten recommendations. Even if you adopt just a few of them, the improvem
 
 I have used and taught a great many different integrated development environments throughout the years.  Currently, I require ICS 314 students to learn and use the JetBrains IDE for Javascript, known as [WebStorm](https://www.jetbrains.com/webstorm/). Using the same basic platform, JetBrains also provides [Idea](https://www.jetbrains.com/idea/) for Java, [PyCharm](https://www.jetbrains.com/pycharm/) for Python, and [CLion](https://www.jetbrains.com/clion/) for C and C++.  The JetBrains family of IDEs are currently best-in-class for these languages, with superior syntax-aware editing, a fantastic debugger/inspector, arguably the best automated refactoring technology, and a vast plugin ecosystem.
 
-JetBrains IDEs are generally acknowledged as superior to Eclipse, NetBeans, Atom, etc. The universally cited downside is that these products are expensive: licenses normally cost about $200/year. Fortunately, this is a non-issue for us: JetBrains provides a [free academic license to students and instructors](https://www.jetbrains.com/student/).  All of your students, having been through ICS 314, already have this license in effect and can use any JetBrains IDE. (Parenthetically, the JetBrains business model [appears to be working](https://twitter.com/chetanp/status/1205907182396395525).)
+JetBrains IDEs are generally acknowledged as superior to Eclipse, NetBeans, Atom, etc. The universally cited downside is that JetBrains products are subscription-based: licenses normally cost about $200/year. Fortunately, this is a non-issue for us: JetBrains provides a [free academic license to students and instructors](https://www.jetbrains.com/student/).  All of your students, having been through ICS 314, already have this license in effect and can use any JetBrains IDE. (Parenthetically, the JetBrains business model [appears to be working](https://twitter.com/chetanp/status/1205907182396395525).)
 
 A reasonable alternative to the JetBrains family of IDEs is Microsoft's [Visual Studio Code](https://code.visualstudio.com/). VSCode is free, open source, and a better choice if you are doing Microsoft (.NET and/or C#) development. Most comparisons of the two environments result in JetBrains coming out slightly on top, with VS Code close behind. 
 
@@ -85,7 +85,7 @@ If a student has forgotten about GitHub, refer them to the [ICS 314 Configuratio
 
 [GitHub Pages](https://pages.github.com/) is a free service that makes it easy for students to create public documentation about their projects as part of their repository, and then render it with a choice of various HTML themes. In ICS 314, students learn what is appropriate to include in project documentation, such as an overview of the problem the application is intended to address, a user guide showing screenshots of each page and functionality in the system, a developer guide explaining how to download, install, and run the system, results from any user feedback on the system, the development history of the system, and how to contact the developers. They also learn how to format and publish this information using GitHub Pages.
 
-For example, here is the first section of the project documentation for a Fall 2019 ICS 314 final project called Studious Manoa, available at [https://studious-manoa.github.io/](https://studious-manoa.github.io/):
+For example, here is the first section of the project documentation for an ICS 314 final project called Studious Manoa, available at [https://studious-manoa.github.io/](https://studious-manoa.github.io/):
 
 <figure>
 <img class="img-fluid" src="{{ site.baseurl }}/img/ten-ways-studious-manoa.png">
@@ -124,8 +124,6 @@ Here is a screenshot of a Project Board for Milestone 3 of the Bowfolios project
 <figcaption style="text-align: center">Project Board for Milestone 3 of Bowfolios project</figcaption>
 </figure>
 
-The actual Project Board is found [here](https://github.com/bowfolios/bowfolios/projects/3#card-30908405). (The state of this board might have changed if I've done development on this project since the writing of this essay.)
-
 Students comment that prior to ICS 314 and IDPM, they had no effective, structured way to work with others that: (a) allowed for incremental, just-in-time planning; (b) enabled clear assignment of tasks and accountability; (c) facilitated concurrent development (through use of Git branching and merging); (d) made the status of development visible and clear (through Project Boards); and (e) provided a realistic  definition of "deliverable" for each intermediate Milestone due date.  Some claimed they would never have completed their team projects without IDPM.
 
 Note that IDPM is useful to you as an instructor, as it makes visible the organization of each team's development process, what they are planning to do, what each member is currently (supposed to be) working on, and some insight into what each member has accomplished.  IDPM makes it painfully obvious, both to you and to the team, when a team member is not contributing anything.
@@ -150,7 +148,7 @@ From this feedback, I infer that students will be receptive and interested in th
 
 You can review the [ICS 314 Ethics module](http://courses.ics.hawaii.edu/ReviewICS314/modules/ethics/) for ideas.  Of particular interest might be the seven "Foundation" readings (which are adapted with permission from a module by Shannon Valor and Arvind Narayanan at Santa Clara University), as well as the [ACM Code of Ethics](https://www.acm.org/code-of-ethics).
 
-In ICS 314, I have students do a set of readings on a topic (in this past semester, it was about Facebook and data privacy), and then split into teams to debate the pro and con of a question (in this past semester, it was "Am I ethically obligated to delete my Facebook account?").  Assertions either pro or con should be backed up by reference to the Code of Ethics.  This format worked quite well and most students seemed to gain new insights into ethics as a result.
+In ICS 314, I have students do a set of readings on a topic (in one semester, it was about Facebook and data privacy), and then split into teams to debate the pro and con of a question (for example, "Am I ethically obligated to delete my Facebook account?").  Assertions either pro or con should be backed up by reference to the Code of Ethics.  This format worked quite well and most students seemed to gain new insights into ethics as a result.
 
 ## 7. Require updates to their professional portfolio
 
